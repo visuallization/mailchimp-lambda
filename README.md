@@ -1,0 +1,1 @@
+This project is based on [create-react-app-lambda](https://github.com/netlify/create-react-app-lambda) and is a demo which makes use of mailchimp API and netlify's aws lambda functions.
